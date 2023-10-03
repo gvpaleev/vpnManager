@@ -3,6 +3,7 @@
 /api-gateway-outline/node_modules
 /vpnManagerTgBot/node_modules
 /api-gateway-outline/mongo-data
+/vpnManagerTgBot/mongo-data
 
 # Logs
 logs
